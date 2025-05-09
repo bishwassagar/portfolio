@@ -206,25 +206,17 @@ sections:
       - type: FeaturedItem
         subtitle: 'Experience:'
         text: |+
-          **Current**
+          **Sept 2024 - Present**
 
           *   Data Governance Specialist @PwC IN
 
-          **2018-2021**
+          **Sept 2023 - Feb 2024**
 
-          *   fullstack at this startup
+          *   WBL Intern @NIELIT
 
-          **2015**
+          **July 2022 - Sept 2022**
 
-          *   senior front-end at this place
-
-          **2013**
-
-          *   intern developer at a big company
-
-          **2011**
-
-          *   flipping burgers
+          *   Cyber Security Intern @DataSpace Security 
 
         styles:
           self:
