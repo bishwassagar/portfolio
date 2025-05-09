@@ -230,18 +230,11 @@ sections:
             textAlign: left
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2020-2024**
 
-          * ba computer sciense at a semi fancy school
+          *   B.Tech in Computer Science & Engineering (Cyber Security)
 
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
         styles:
           self:
             textAlign: left
