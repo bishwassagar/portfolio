@@ -159,7 +159,7 @@ sections:
       - type: Label
         label: Informatica Cloud
       - type: Label
-        label: React
+        label: Kali Linux
       - type: Label
         label: Microsoft Office
       - type: Label
