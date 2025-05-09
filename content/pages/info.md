@@ -169,7 +169,7 @@ sections:
       - type: Label
         label: Ethical Hacking
       - type: Label
-        label: C++
+        label: OSINT
       - type: Label
         label: Swift
   - type: DividerSection
