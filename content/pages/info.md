@@ -112,6 +112,7 @@ sections:
         styles:
           self:
             textAlign: left
+        title: GitHub
       - type: FeaturedItem
         actions:
           - type: Link
