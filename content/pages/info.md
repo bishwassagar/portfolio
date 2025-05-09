@@ -125,7 +125,7 @@ sections:
         actions:
           - type: Link
             label: Telegram
-            url: 'https://www.instagram.com/'
+            url: 'https://t.me/BishwasSagar'
         styles:
           self:
             textAlign: left
