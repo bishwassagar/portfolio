@@ -188,7 +188,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      <bishwas@tuta.io>
   - type: DividerSection
     styles:
       self:
