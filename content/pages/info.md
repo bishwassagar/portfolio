@@ -107,20 +107,20 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
+            label: LinkedIn
+            url: 'https://www.linkedin.com/'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
             label: GitHub
             url: 'https://github.com/bishwassagar'
         styles:
           self:
             textAlign: left
         title: ''
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
