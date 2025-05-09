@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
+      I’m a developer, ETHICAL HACKER, consultant and a bunch of other
       impressive titles and buzz words.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
@@ -53,7 +53,7 @@ sections:
     projects:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
+      - content/pages/projects/project-two.md
     styles:
       self:
         height: auto
