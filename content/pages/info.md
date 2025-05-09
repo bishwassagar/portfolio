@@ -163,7 +163,7 @@ sections:
       - type: Label
         label: Microsoft Office 365
       - type: Label
-        label: Next.js
+        label: GitHub
       - type: Label
         label: Netlify
       - type: Label
