@@ -170,8 +170,6 @@ sections:
         label: Android ROM DEV
       - type: Label
         label: OSINT
-      - type: Label
-        label: Swift
   - type: DividerSection
     styles:
       self:
