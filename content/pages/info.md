@@ -161,7 +161,7 @@ sections:
       - type: Label
         label: Kali Linux
       - type: Label
-        label: Microsoft Office
+        label: Microsoft Office 365
       - type: Label
         label: Next.js
       - type: Label
