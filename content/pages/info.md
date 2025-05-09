@@ -167,7 +167,7 @@ sections:
       - type: Label
         label: Netlify
       - type: Label
-        label: Ethical Hacking
+        label: Android ROM DEV
       - type: Label
         label: OSINT
       - type: Label
