@@ -56,7 +56,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/logo1.svg
-        altText: Logo one
+        altText: PwC
         caption: Logo one
       - type: ImageBlock
         url: /images/logo2.svg
