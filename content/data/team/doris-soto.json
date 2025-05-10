@@ -1,10 +1,11 @@
 {
     "type": "Person",
-    "firstName": "Doris",
-    "lastName": "Soto",
+    "firstName": "Bishwas",
+    "lastName": "Sagar",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/about.jpg",
-        "altText": "Doris Soto photo"
-    }
+        "url": "/images/about_bishwas.jpg",
+        "altText": "Bishwas Sagar Photo"
+    },
+    "role": "Consultant"
 }
