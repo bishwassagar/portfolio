@@ -55,7 +55,7 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/logo5.svg
+        url: /images/dss_logo.png
         altText: Logo five
         caption: Logo five
     spacing: 3
