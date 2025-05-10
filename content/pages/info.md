@@ -57,7 +57,7 @@ sections:
       - type: ImageBlock
         url: /images/dss_logo.png
         altText: Dataspace Security
-        caption: Logo five
+        caption: Dataspace Security
     spacing: 3
     columns: 5
     aspectRatio: auto
