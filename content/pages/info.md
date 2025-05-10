@@ -62,7 +62,7 @@ sections:
       - type: ImageBlock
         url: /images/NIELIT-Logo.png
         altText: NIELIT
-        caption: Caption of the image
+        caption: NIELIT
         elementId: ''
       - type: ImageBlock
         url: /images/dss_logo.png
