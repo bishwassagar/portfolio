@@ -52,7 +52,7 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/PwC_logo.svg
+        url: /images/pwc-v2.svg
         altText: PwC
         caption: PwC
         elementId: ''
