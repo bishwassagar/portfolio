@@ -57,7 +57,7 @@ sections:
         caption: PwC
         elementId: ''
       - type: ImageBlock
-        url: /images/NIELIT-Logo.png
+        url: /images/NIELIT-Preview.png
         altText: NIELIT
         caption: NIELIT
         elementId: ''
