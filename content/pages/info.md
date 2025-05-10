@@ -13,12 +13,9 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
-
+    text: |
+      Hey I’m a developer, ethical hacker and consultant.
+      Always learning, always building!
     media:
       type: ImageBlock
       url: /images/about.jpg
@@ -55,27 +52,21 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
+        url: /images/pwc-v2.svg
+        altText: PwC
+        caption: PwC
+        elementId: ''
       - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
+        url: /images/NIELIT-Preview.png
+        altText: NIELIT
+        caption: NIELIT
+        elementId: ''
       - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
+        url: /images/dss_logo.png
         altText: Logo five
         caption: Logo five
-    spacing: 3
-    columns: 5
+    spacing: 30
+    columns: 3
     aspectRatio: auto
     showCaption: false
     enableHover: false
@@ -107,22 +98,6 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
             label: LinkedIn
             url: 'https://www.linkedin.com/'
         styles:
@@ -131,24 +106,17 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
+            label: GitHub
+            url: 'https://github.com/bishwassagar'
         styles:
           self:
             textAlign: left
+        title: ''
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
+            label: Telegram
+            url: 'https://t.me/BishwasSagar'
         styles:
           self:
             textAlign: left
@@ -180,21 +148,19 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Informatica Cloud
       - type: Label
-        label: React
+        label: Kali Linux
       - type: Label
-        label: Microsoft Office
+        label: Microsoft Office 365
       - type: Label
-        label: Next.js
+        label: GitHub
       - type: Label
         label: Netlify
       - type: Label
-        label: Pancakes
+        label: Android ROM DEV
       - type: Label
-        label: C++
-      - type: Label
-        label: Swift
+        label: OSINT
   - type: DividerSection
     styles:
       self:
@@ -211,7 +177,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      <bishwas@tuta.io>
   - type: DividerSection
     styles:
       self:
@@ -228,43 +194,29 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: |+
+          **Sept 2024 - Present**
 
-          * freelance @freelance.me
+          *   Data Governance Specialist @PwC IN
 
-          **2018-2021**
+          **Sept 2023 - Feb 2024**
 
-          * fullstack at this startup
+          *   WBL Intern @NIELIT
 
-          **2015**
+          **July 2022 - Sept 2022**
 
-          * senior front-end at this place
+          *   Cyber Security Intern @DataSpace Security 
 
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2020-2024**
 
-          * ba computer sciense at a semi fancy school
+          *   B.Tech in Computer Science & Engineering (Cyber Security)
 
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
         styles:
           self:
             textAlign: left
@@ -324,7 +276,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: Your message for me.
           isRequired: true
           width: full
           type: TextareaFormControl
