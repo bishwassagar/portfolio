@@ -60,7 +60,7 @@ sections:
         caption: Dataspace Security
       - type: ImageBlock
         url: /images/PwC_logo.svg
-        altText: altText of the image
+        altText: PwC
         caption: Caption of the image
         elementId: ''
     spacing: 3
