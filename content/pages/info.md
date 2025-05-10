@@ -61,7 +61,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/NIELIT-Logo.png
-        altText: altText of the image
+        altText: NIELIT
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
