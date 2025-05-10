@@ -68,7 +68,7 @@ sections:
         url: /images/dss_logo.png
         altText: Logo five
         caption: Logo five
-    spacing: 3
+    spacing: 10
     columns: 5
     aspectRatio: auto
     showCaption: false
