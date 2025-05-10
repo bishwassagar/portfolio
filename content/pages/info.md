@@ -55,10 +55,6 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/PwC_logo.svg
-        altText: PwC
-        caption: PwC
-      - type: ImageBlock
         url: /images/logo2.svg
         altText: Logo two
         caption: Logo two
