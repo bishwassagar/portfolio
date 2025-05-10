@@ -13,12 +13,9 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: |+
-      Hey I’m a developer, ethical hacker and consultant. 
+    text: |
+      Hey I’m a developer, ethical hacker and consultant.
       Always learning, always building!
-        
-      ============
-
     media:
       type: ImageBlock
       url: /images/about.jpg
