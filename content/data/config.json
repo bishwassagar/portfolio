@@ -3,7 +3,7 @@
     "favicon": "/images/favicon.svg",
     "header": {
         "type": "Header",
-        "headerVariant": "variant-c",
+        "headerVariant": "variant-b",
         "isSticky": false,
         "title": "Bishwas's Portfolio",
         "isTitleVisible": true,
@@ -15,13 +15,13 @@
             },
             {
                 "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
+                "label": "Blog",
+                "url": "/blog"
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
+                "label": "Projects",
+                "url": "/projects"
             }
         ],
         "socialLinks": [
@@ -43,47 +43,6 @@
         "styles": {
             "self": {
                 "width": "full"
-            }
-        }
-    },
-    "footer": {
-        "type": "Footer",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Contact",
-                "url": "mailto:bishwas@tuta.io",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/bishwassagar",
-                "altText": "Bishwas Sagar's GitHub"
-            }
-        ],
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
-        "styles": {
-            "self": {
-                "width": "narrow",
-                "padding": [
-                    "pt-16",
-                    "pb-16",
-                    "pr-4",
-                    "pl-4"
-                ]
             }
         }
     }
