@@ -128,7 +128,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.linkedin.com/in/bishwassagar/'
         styles:
           self:
             textAlign: left
