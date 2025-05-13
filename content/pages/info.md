@@ -91,6 +91,46 @@ sections:
           - pr-4
         borderWidth: 1
         borderStyle: solid
+  - type: DividerSection
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        borderWidth: 1
+        borderStyle: solid
+  - type: LabelsSection
+    colors: colors-f
+    subtitle: 'Skills:'
+    items:
+      - type: Label
+        label: Informatica Cloud
+      - type: Label
+        label: Kali Linux
+      - type: Label
+        label: Microsoft Office 365
+      - type: Label
+        label: GitHub
+      - type: Label
+        label: Netlify
+      - type: Label
+        label: Android ROM DEV
+      - type: Label
+        label: OSINT
+  - type: DividerSection
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        borderWidth: 1
+        borderStyle: solid
   - type: FeaturedItemsSection
     subtitle: 'You can find me here:'
     colors: colors-f
@@ -132,44 +172,4 @@ sections:
           - pb-8
           - pl-4
           - pr-4
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: LabelsSection
-    colors: colors-f
-    subtitle: 'Skills:'
-    items:
-      - type: Label
-        label: Informatica Cloud
-      - type: Label
-        label: Kali Linux
-      - type: Label
-        label: Microsoft Office 365
-      - type: Label
-        label: GitHub
-      - type: Label
-        label: Netlify
-      - type: Label
-        label: Android ROM DEV
-      - type: Label
-        label: OSINT
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
 ---
