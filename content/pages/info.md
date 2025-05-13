@@ -172,12 +172,6 @@ sections:
           - pr-4
         borderWidth: 1
         borderStyle: solid
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
-    text: |
-      <bishwas@tuta.io>
   - type: DividerSection
     styles:
       self:
