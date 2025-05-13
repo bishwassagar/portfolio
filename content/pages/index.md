@@ -94,8 +94,8 @@ sections:
     subtitle: Projects
   - type: QuoteSection
     quote: >-
-      “We think coding should be required in every school because it's as
-      important as any kind of second language.”
+      "There is nothing noble in being superior to your fellow man; true
+      nobility is being superior to your former self.”
     name: Johnna Doe
     title: Product Marketing Manager at Acme
     colors: colors-f
