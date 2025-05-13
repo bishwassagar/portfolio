@@ -97,7 +97,7 @@ sections:
       "There is nothing noble in being superior to your fellow man; true
       nobility is being superior to your former self.”
     name: 'Ernest Hemingway '
-    title: Product Marketing Manager at Acme
+    title: ''
     colors: colors-f
     elementId: ''
     styles:
