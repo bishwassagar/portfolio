@@ -50,7 +50,6 @@ sections:
         iconPosition: right
         elementId: ''
     posts:
-      - content/pages/blog/post-five.md
       - content/pages/blog/post-four.md
     colors: colors-f
     variant: variant-a
