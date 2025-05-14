@@ -50,9 +50,11 @@ sections:
         iconPosition: right
         elementId: ''
     posts:
+      - content/pages/blog/post-five.md
       - content/pages/blog/post-four.md
+      - content/pages/blog/post-three.md
     colors: colors-f
-    variant: variant-a
+    variant: variant-b
     elementId: ''
     showDate: true
     showAuthor: false
